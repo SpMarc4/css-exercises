@@ -24,3 +24,48 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/*Solution*/
+
+body {
+  text-align: center;
+  }
+
+.title {
+
+  margin-bottom: 32px;
+  }
+
+ .plants {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+ } 
+
+
+ .plant {
+  max-width: 200px;
+ }
+
+
+/* 
+ SOLUTION proposed
+
+body {
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 32px;
+}
+
+.plants {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.plant {
+  max-width: 200px;
+}
+ */
